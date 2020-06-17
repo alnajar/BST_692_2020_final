@@ -7,7 +7,7 @@ Your goal is to make a website that has information with your predictions on lat
 
 1. Put in a disclaimer on the landing page of the website saying that this work is done on simulated data inspired by patients seen in Miami. 
 1. Describe the overall dataset
-    + Include both graphical and numeric summaries of all the variables in the entire dataset.
+    + Include both interactive graphical and numeric summaries of all the variables in the entire dataset.
     + Allow users to look at the details of all the women or the women split by their city.
 
 ## Predict late stage cancer using variables that are known before surgery
