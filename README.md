@@ -2,7 +2,7 @@
 
 Your goal is to make a website that has information with your predictions on late stage breast cancer.  You can organize the results in any way that make sense to you but we will be evaluating your results based on your organization/presentation as well as the quality/rigor of your results.  Your target audience is smart people who don't know a lot about statistics.  The readers will likely be policy makers, key stakeholders in the community and doctors.  It is critical that you provide well written interpretations of your findings.  If written English is not a strength for you, work with others who can help you along.
 
-In your solution we expect you to use at least one reactive dataset, at least one eventreactive control a couple input functions.
+In your solution we expect you to use at least one reactive dataset, at least one eventReactive control a couple input functions.
 
 # Tasks
 ## Describe the data
