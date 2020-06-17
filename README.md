@@ -2,6 +2,8 @@
 
 Your goal is to make a website that has information with your predictions on late stage breast cancer.  You can organize the results in any way that make sense to you but we will be evaluating your results based on your organization/presentation as well as the quality/rigor of your results.  Your target audience is smart people who don't know a lot about statistics.  The readers will likely be policy makers, key stakeholders in the community and doctors.  It is critical that you provide well written interpretations of your findings.  If written English is not a strength for you, work with others who can help you along.
 
+In your solution we expect you to use at least one reactive dataset, at least one eventreactive control a couple input functions.
+
 # Tasks
 ## Describe the data
 
@@ -9,6 +11,10 @@ Your goal is to make a website that has information with your predictions on lat
 1. Describe the overall dataset
     + Include both interactive graphical and numeric summaries of all the variables in the entire dataset.
     + Allow users to look at the details of all the women or the women split by their city.
+    
+## Map the number of people without insurance 
+
+1. Use the data that you pulled from the cenus and map it.
 
 ## Predict late stage cancer using variables that are known before surgery
 Build predictive models of late stage breast cancer and provide the users with numeric and/or graphical summaries to help them understand that the models say/mean. Be sure to include at least these four modeling techniques:
